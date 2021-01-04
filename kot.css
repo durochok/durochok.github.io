@@ -1,0 +1,35 @@
+body{
+	 background: url;
+	 background: #F0E68C; 
+}
+h1{
+	color: purple;
+	font-family: ARIAL BLACK;
+}
+i {
+	color: purple;
+	line-height: 1.7;
+	font-size: 20px;
+	font-family: academy engraved let;
+}
+.text {
+	padding-left: 300px;
+}	
+b{
+	padding-left: 300px;
+}
+.q1{
+	width:500px;
+	padding:5px;
+}
+#q{
+	padding:5px;
+	
+}
+form {
+	display: block;
+	padding-left: 300px;
+}
+.kot{
+	display: block;
+}
